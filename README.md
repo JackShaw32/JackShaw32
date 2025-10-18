@@ -15,7 +15,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I'm currently working as a software developer, specializing in web and e-commerce solutions.
 - :seedling: I'm always learning, right now exploring everything about AI and new software architectures.
 - :zap: In my free time, I enjoy researching new technologies and contributing to open-source projects.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-YOUR_USERNAME-blue?style=flat&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL) <-- **Don't forget to update this link!**
 
 ---
 
