@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <svg title="Strapi" alt="Strapi" width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#2F2E8B" d="M18.94 12.015L12 16.202l-6.94-4.187L12 7.828zM12 0L2.344 5.547v12.906L12 24l9.656-5.547V5.547zm6.94 17.063L12 21.25V17.9l6.94-4.188z"/></svg>&nbsp;
+  <img src="https://api.svgshare.com/v1/icon?name=strapi" title="Strapi" alt="Strapi" width="40" height="40"/>&nbsp;
   <img src="https://jwt.io/img/pic_logo.svg" title="JWT" alt="JWT" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
 </p>
