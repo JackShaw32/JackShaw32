@@ -46,7 +46,7 @@ Currently focused on building **high-performance e-commerce solutions** using **
 ### 🫂 Connect with me
 
 <div align="center">
-  <a href="TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/raul-eduardo-cabral/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
