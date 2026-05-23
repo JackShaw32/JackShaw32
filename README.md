@@ -1,8 +1,8 @@
 ## Hi, I’m Eduardo Cabral <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
 
-⚡ Full-Stack JavaScript Developer specialized in **E-commerce, scalable web applications and modern digital experiences**.
+⚡ **Software Engineer** specialized in **E-commerce, Scalable Web Applications & AI Integrations**.
 
-Currently focused on building **high-performance e-commerce solutions** using **React, Node.js, TypeScript, Astro and the MERN stack**, with experience in **SEO, performance optimization, cloud technologies and AI integrations**. 🚀
+Currently focused on building high-performance applications using **React, Node.js, TypeScript, Astro and the MERN stack**. 🚀
 
 ### 📈 My GitHub Stats
 <br>
