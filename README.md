@@ -8,9 +8,7 @@ Currently focused on building high-performance applications using **React, Node.
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.express/api?username=jackshaw32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-
-  <img height="150em" src="https://github-readme-stats.express/api/top-langs/?username=jackshaw32&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jackshaw32&theme=dracula"/>
 </div>
 
 <br>
