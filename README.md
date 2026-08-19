@@ -7,12 +7,14 @@ Currently focused on building high-performance applications using **React, Node.
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/jackshaw32?style=for-the-badge&color=ff69b4"/>
-  <img src="https://img.shields.io/github/followers/jackshaw32?style=for-the-badge&color=ff69b4"/>
-  <img src="https://img.shields.io/github/last-commit/jackshaw32/JackShaw32?style=for-the-badge&color=ff69b4"/>
+  <!-- Estos badges SIEMPRE funcionan porque son estáticos -->
+  <img src="https://img.shields.io/badge/Repositories-25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jackshaw32&show_icons=true&theme=dracula&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackshaw32&layout=compact&langs_count=8&theme=dracula"/>
+  
+  <!-- Intenta cargar las estadísticas, si fallan, los badges de respaldo se ven bien -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jackshaw32&show_icons=true&theme=dracula" alt="GitHub Stats" onerror="this.style.display='none'"/>
 </div>
 
 ### 🛠️ Technologies & Tools I Use
